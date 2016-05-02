@@ -41,7 +41,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/blogger.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
 
-<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/video_walkthrough.gif  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
+<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/video_walkthrough.gif'  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
