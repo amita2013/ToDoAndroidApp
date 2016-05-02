@@ -1,5 +1,6 @@
 
-I am still working on it.
+I have created another activity that gets the item to edit when it is clicked in the first activity.  I still need to edit and save it. I will try to complete it by tomorrow.
+
 /cc @codepathreview @codepath
 
 # ToDoAndroidApp
@@ -11,14 +12,14 @@ ToDoAndroidApp is an android app that allows building a todo list and basic todo
 
 Submitted by: Amita Rohatgi
 
-Time spent: 8 hours spent in total
+Time spent: 14 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
 * [X] User can **successfully add and remove items** from the todo list
-* [] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
+* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
 * [X] User can **persist todo items** and retrieve them properly on app restart
 
 The following **optional** features are implemented:
@@ -38,7 +39,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/blogger.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/amita2013/ToDoAndroidApp/blob/master/blogger.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
+
+https://github.com/amita2013/ToDoAndroidApp/blob/master/video_walkthrough.gif  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
